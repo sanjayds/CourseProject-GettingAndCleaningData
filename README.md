@@ -1,7 +1,7 @@
 # CourseProject-GettingAndCleaningData
 #Repository to submit Course project for Coursera's Getting And Cleaning Data
 R script run_analysis.R does following activities as required to complete course project -
-load reshape package to perform last step of course project
+Load reshape package to perform melting and casting of data to get the desired shape as required in last step of course project
 download zip file
 Reading activity labels data
 Reading feature data
